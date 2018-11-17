@@ -16,6 +16,7 @@ import org.springframework.web.bind.annotation.RestController;
 import lombok.Getter;
 import lombok.Setter;
 
+
 @SpringBootApplication
 public class RestserviceApplication {
 
